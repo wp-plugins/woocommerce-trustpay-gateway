@@ -12,6 +12,10 @@ Trustpay payment gateway for WooCommerce.
 
 The [Trustpay](http://www.trustpay.biz/) Payment Gateway adds a credit card, carrier billing, [NETELLER](http://www.neteller.com/), [CASHU](https://www.cashu.com/) and other payment gateway integrations for most popular WordPress shopping cart - WooCommerce.
 
+= Requirements =
+
+Must have a Free TrustPay Merchant Account [www.trustpaybiz.com](http://www.trustpaybiz.com).
+
 = About Trustpay =
 TrustPay connects our merchants seamlessly, facilitating the connection globally to the consumer. This is done either directly, or via PSPs and is offered to member merchants in a simple, single Gateway.
 
