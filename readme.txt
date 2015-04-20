@@ -3,7 +3,7 @@ Contributors: trustpay
 Tags: woocommerce, gateway, payments
 Requires at least: 3.8
 Tested up to: 4.1
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv3 or later
 
 Trustpay payment gateway for WooCommerce.
@@ -46,6 +46,9 @@ Visit your blog admin panel and:
 Please use WooCommerce Trustpay Gateway support forum to address any issues you encounter while using TrustPay payment gateway.
 
 == Change Log ==
+= 1.1.1 =
+* Updated: readme.txt updated.
+
 = 1.1.0 =
 * New: Plugin dependency checking and notifications added.
 * Updated: Multisite support added.

@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce Trustpay Gateway
 Description: TrustPay payment gateway for WooCommerce.
-Version: 1.1.0
+Version: 1.1.1
 Author: trustpay
 Author URI: http://trustpay.biz
 
